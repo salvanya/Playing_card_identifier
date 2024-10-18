@@ -1,0 +1,343 @@
+Clase: 0 (ID: 0)
+Precisión: 0.8990
+Recall: 0.7743
+mAP50: 0.8300
+mAP50-95: 0.5853
+F1 Score: 0.8320
+
+Clase: 1 (ID: 1)
+Precisión: 0.8101
+Recall: 0.6923
+mAP50: 0.7700
+mAP50-95: 0.5830
+F1 Score: 0.7466
+
+Clase: 2 (ID: 2)
+Precisión: 0.8209
+Recall: 0.5946
+mAP50: 0.6852
+mAP50-95: 0.5092
+F1 Score: 0.6897
+
+Clase: 3 (ID: 3)
+Precisión: 0.9210
+Recall: 0.6667
+mAP50: 0.7428
+mAP50-95: 0.5828
+F1 Score: 0.7735
+
+Clase: 4 (ID: 4)
+Precisión: 0.9931
+Recall: 0.6364
+mAP50: 0.7523
+mAP50-95: 0.5053
+F1 Score: 0.7757
+
+Clase: 5 (ID: 5)
+Precisión: 0.6467
+Recall: 0.6522
+mAP50: 0.5771
+mAP50-95: 0.4571
+F1 Score: 0.6494
+
+Clase: 6 (ID: 6)
+Precisión: 0.8742
+Recall: 0.6727
+mAP50: 0.7190
+mAP50-95: 0.5208
+F1 Score: 0.7603
+
+Clase: 7 (ID: 7)
+Precisión: 0.7152
+Recall: 0.6333
+mAP50: 0.6515
+mAP50-95: 0.4764
+F1 Score: 0.6718
+
+Clase: 8 (ID: 8)
+Precisión: 0.8645
+Recall: 0.5667
+mAP50: 0.6446
+mAP50-95: 0.4963
+F1 Score: 0.6846
+
+Clase: 9 (ID: 9)
+Precisión: 0.7853
+Recall: 0.5294
+mAP50: 0.6019
+mAP50-95: 0.4829
+F1 Score: 0.6325
+
+Clase: 10 (ID: 10)
+Precisión: 0.8698
+Recall: 0.5357
+mAP50: 0.6133
+mAP50-95: 0.4247
+F1 Score: 0.6630
+
+Clase: 11 (ID: 11)
+Precisión: 0.7970
+Recall: 0.7353
+mAP50: 0.6782
+mAP50-95: 0.5186
+F1 Score: 0.7649
+
+Clase: 12 (ID: 12)
+Precisión: 0.8773
+Recall: 0.7241
+mAP50: 0.8307
+mAP50-95: 0.6216
+F1 Score: 0.7934
+
+Clase: 13 (ID: 13)
+Precisión: 0.9443
+Recall: 0.6471
+mAP50: 0.7908
+mAP50-95: 0.6233
+F1 Score: 0.7679
+
+Clase: 14 (ID: 14)
+Precisión: 0.7214
+Recall: 0.5455
+mAP50: 0.6868
+mAP50-95: 0.5143
+F1 Score: 0.6212
+
+Clase: 15 (ID: 15)
+Precisión: 0.8632
+Recall: 0.7652
+mAP50: 0.8425
+mAP50-95: 0.6132
+F1 Score: 0.8112
+
+Clase: 16 (ID: 16)
+Precisión: 0.6227
+Recall: 0.3636
+mAP50: 0.5706
+mAP50-95: 0.3847
+F1 Score: 0.4592
+
+Clase: 17 (ID: 17)
+Precisión: 0.8625
+Recall: 0.5556
+mAP50: 0.6597
+mAP50-95: 0.5689
+F1 Score: 0.6758
+
+Clase: 18 (ID: 18)
+Precisión: 0.9173
+Recall: 0.5484
+mAP50: 0.6788
+mAP50-95: 0.4867
+F1 Score: 0.6864
+
+Clase: 19 (ID: 19)
+Precisión: 0.9101
+Recall: 0.6786
+mAP50: 0.7417
+mAP50-95: 0.5888
+F1 Score: 0.7775
+
+Clase: 20 (ID: 20)
+Precisión: 0.5738
+Recall: 0.4815
+mAP50: 0.5595
+mAP50-95: 0.4314
+F1 Score: 0.5236
+
+Clase: 21 (ID: 21)
+Precisión: 0.6799
+Recall: 0.5294
+mAP50: 0.5560
+mAP50-95: 0.3684
+F1 Score: 0.5953
+
+Clase: 22 (ID: 22)
+Precisión: 0.6613
+Recall: 0.6571
+mAP50: 0.6954
+mAP50-95: 0.5568
+F1 Score: 0.6592
+
+Clase: 23 (ID: 23)
+Precisión: 0.8698
+Recall: 0.5806
+mAP50: 0.7053
+mAP50-95: 0.5283
+F1 Score: 0.6964
+
+Clase: 24 (ID: 24)
+Precisión: 0.6473
+Recall: 0.5509
+mAP50: 0.5960
+mAP50-95: 0.4303
+F1 Score: 0.5953
+
+Clase: 25 (ID: 25)
+Precisión: 0.6805
+Recall: 0.5714
+mAP50: 0.6635
+mAP50-95: 0.4944
+F1 Score: 0.6212
+
+Clase: 26 (ID: 26)
+Precisión: 0.7272
+Recall: 0.5263
+mAP50: 0.6294
+mAP50-95: 0.4809
+F1 Score: 0.6107
+
+Clase: 27 (ID: 27)
+Precisión: 0.8182
+Recall: 0.6053
+mAP50: 0.6697
+mAP50-95: 0.4985
+F1 Score: 0.6958
+
+Clase: 28 (ID: 28)
+Precisión: 0.5975
+Recall: 0.4444
+mAP50: 0.5073
+mAP50-95: 0.4036
+F1 Score: 0.5097
+
+Clase: 29 (ID: 29)
+Precisión: 0.8724
+Recall: 0.5703
+mAP50: 0.6696
+mAP50-95: 0.4936
+F1 Score: 0.6897
+
+Clase: 30 (ID: 30)
+Precisión: 0.8126
+Recall: 0.5652
+mAP50: 0.6320
+mAP50-95: 0.4350
+F1 Score: 0.6667
+
+Clase: 31 (ID: 31)
+Precisión: 0.7302
+Recall: 0.5263
+mAP50: 0.7057
+mAP50-95: 0.5558
+F1 Score: 0.6117
+
+Clase: 32 (ID: 32)
+Precisión: 0.6629
+Recall: 0.5263
+mAP50: 0.6298
+mAP50-95: 0.5047
+F1 Score: 0.5868
+
+Clase: 33 (ID: 33)
+Precisión: 0.8753
+Recall: 0.6800
+mAP50: 0.8220
+mAP50-95: 0.6524
+F1 Score: 0.7654
+
+Clase: 34 (ID: 34)
+Precisión: 0.7079
+Recall: 0.5301
+mAP50: 0.5887
+mAP50-95: 0.4553
+F1 Score: 0.6063
+
+Clase: 35 (ID: 35)
+Precisión: 0.7506
+Recall: 0.7391
+mAP50: 0.7699
+mAP50-95: 0.6437
+F1 Score: 0.7448
+
+Clase: 36 (ID: 36)
+Precisión: 0.7684
+Recall: 0.5855
+mAP50: 0.6719
+mAP50-95: 0.4761
+F1 Score: 0.6646
+
+Clase: 37 (ID: 37)
+Precisión: 0.8141
+Recall: 0.4054
+mAP50: 0.5513
+mAP50-95: 0.4561
+F1 Score: 0.5413
+
+Clase: 38 (ID: 38)
+Precisión: 0.7367
+Recall: 0.4595
+mAP50: 0.6330
+mAP50-95: 0.4793
+F1 Score: 0.5659
+
+Clase: 39 (ID: 39)
+Precisión: 0.7768
+Recall: 0.3462
+mAP50: 0.4507
+mAP50-95: 0.3542
+F1 Score: 0.4789
+
+Clase: 40 (ID: 40)
+Precisión: 0.5690
+Recall: 0.4843
+mAP50: 0.5023
+mAP50-95: 0.3952
+F1 Score: 0.5233
+
+Clase: 41 (ID: 41)
+Precisión: 0.8704
+Recall: 0.4706
+mAP50: 0.6792
+mAP50-95: 0.5245
+F1 Score: 0.6109
+
+Clase: 42 (ID: 42)
+Precisión: 0.6172
+Recall: 0.5546
+mAP50: 0.6162
+mAP50-95: 0.4449
+F1 Score: 0.5842
+
+Clase: 43 (ID: 43)
+Precisión: 0.5698
+Recall: 0.4583
+mAP50: 0.4472
+mAP50-95: 0.3337
+F1 Score: 0.5080
+
+Clase: 44 (ID: 44)
+Precisión: 0.7117
+Recall: 0.4444
+mAP50: 0.5657
+mAP50-95: 0.3495
+F1 Score: 0.5472
+
+Clase: 45 (ID: 45)
+Precisión: 0.3911
+Recall: 0.2609
+mAP50: 0.3380
+mAP50-95: 0.2366
+F1 Score: 0.3130
+
+Clase: 46 (ID: 46)
+Precisión: 0.7665
+Recall: 0.5324
+mAP50: 0.7366
+mAP50-95: 0.5491
+F1 Score: 0.6284
+
+Clase: 47 (ID: 47)
+Precisión: 0.7573
+Recall: 0.5862
+mAP50: 0.6836
+mAP50-95: 0.5346
+F1 Score: 0.6609
+
+Clase: 48 (ID: 48)
+Precisión: 0.9371
+Recall: 0.6777
+mAP50: 0.7458
+mAP50-95: 0.5957
+F1 Score: 0.7865
+
