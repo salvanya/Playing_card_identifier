@@ -63,9 +63,9 @@ Place your annotated data into the `Data` directory in a directory called `Datas
 
 ## Project Directory Structure
 
-├── Data  
-│   ├── Dataset  
-│   ├── Splitted_Dataset  
+├── `Data`  
+│   ├── **Dataset**  
+│   ├── **Splitted_Dataset**  
 │   │   ├── test  
 │   │   │   ├── images  
 │   │   │   └── labels  
@@ -75,26 +75,26 @@ Place your annotated data into the `Data` directory in a directory called `Datas
 │   │   └── val  
 │   │       ├── images  
 │   │       └── labels  
-│   ├── eval  
+│   ├── **eval**  
 │   │   ├── images  
 │   │   │   ├── train  
 │   │   │   └── val  
 │   │   └── labels  
 │   │       ├── train  
 │   │       └── val  
-│   └── label_errors  
-├── Results  
-│   ├── Envido  
+│   └── **label_errors**  
+├── `Results`  
+│   ├── **Envido**  
 │   │   └── leandro_salvañá  
-│   ├── checkpoints  
-│   ├── test_results  
-│   ├── yolov8_retraining  
+│   ├── **checkpoints**  
+│   ├── **test_results**  
+│   ├── **yolov8_retraining**  
 │   │   └── weights  
-│   └── yolov8_training  
+│   └── **yolov8_training**  
 │       ├── checkpoints  
 │       └── weights  
-└── model  
-    └── weights  
+└── `model`  
+    └── **weights**  
 
 ### Directory Descriptions
 
