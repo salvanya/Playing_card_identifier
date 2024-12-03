@@ -1,4 +1,31 @@
-# Final Project - Computer Vision - Leandro Salvañá
+# Academic Project: Playing card identifier
+
+This project implements a computer vision pipeline leveraging **YOLOv8** for the detection of playing cards in the context of the traditional Argentine card game, *Truco*. The primary objective is to develop an algorithm capable of calculating the *Envido* score based on detected cards.
+
+## Key Contributions
+
+1. **Collaborative Dataset Creation**  
+   - Participated in the development of a custom dataset by capturing and annotating images of *Truco* cards.
+
+2. **Dataset Processing and Enhancement**  
+   - Conducted thorough data cleaning and analysis.  
+   - Applied **data augmentation techniques** to generate synthetic samples, increasing dataset diversity and robustness.
+
+3. **Model Training and Optimization**  
+   - Trained a YOLOv8 model on the enhanced dataset.  
+   - Evaluated performance using key metrics (e.g., mAP, precision, recall).  
+   - Iteratively fine-tuned hyperparameters to improve detection accuracy.
+
+## Project Highlights
+
+This project integrates advanced deep learning techniques with traditional game mechanics, showcasing the practical application of AI in card recognition systems. The approach is designed to enhance gameplay understanding and contribute to AI-driven solutions in recreational contexts.
+
+## Example of Card Detection
+
+Below is an example of the YOLOv8 model detecting and identifying cards from the *Truco* deck. The bounding boxes and labels represent the detections made by the model.
+
+![Card Detection Example](Results/detection_9.png)
+
 
 ## Report
 The project report is located in the file:
