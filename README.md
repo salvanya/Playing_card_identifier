@@ -26,6 +26,25 @@ Below is an example of the YOLOv8 model detecting and identifying cards from the
 
 ![Card Detection Example](Results/detection_9.png)
 
+### Labeling System
+
+The detection model identifies each card using a label composed of:  
+- **A letter**, representing the suit of the card:
+  - **E**: Espadas (*Swords*)  
+  - **C**: Copas (*Cups*)  
+  - **O**: Oros (*Coins*)  
+  - **B**: Bastos (*Clubs*)  
+
+- **A number**, indicating the card's value (e.g., 1, 7, 10).  
+
+### Example Labels:
+- `E7`: Seven of Swords  
+- `C1`: Ace of Cups  
+- `O10`: Ten of Coins  
+- `B4`: Four of Clubs  
+
+### Key Note
+The model does **not use explicit OCR (Optical Character Recognition)** to detect these labels. Instead, the card information is learned through the YOLOv8 detection framework, which processes the visual patterns of each card directly.
 
 ## Report
 The project report is located in the file:
